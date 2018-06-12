@@ -3,7 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { ServersService } from '../servers.service';
 
 @Component({
-  selector: 'app-server',
+  selector: 'server',
   templateUrl: './server.component.html',
   styleUrls: ['./server.component.css']
 })
